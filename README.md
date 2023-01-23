@@ -1,85 +1,47 @@
-# mohannadApp-news_app
-2
-​
-3
-In the application, I worked on bringing Egyptian news through an API such as sports, diversified and science news, which displays news that is related to each day, and in the very near future I will be able to update it to create an application that deals with news that is related to each country separately and you can choose the news of your country and the countries you want.
-4
-​
-5
+# Healthy_BMI App
+
+The images below show that the application serves all members of the community who are concerned about their health, as it shows you your body mass and gives you tips about the ideal mass and weight for your height. It also enables you to maintain your body mass and calculate it from time to time, by taking the advice that the application gives you based on the knowledge and study of the nutrition doctor.
+
 In this app, I used a lot of flutter packages, including:
-6
-​
-7
-1) API
-8
-​
-9
-2) BloC state management
-10
-​
-11
-3) dio
-12
-​
-13
-4) CacheHelper
-14
-​
-15
-5) webview_flutter
-16
-​
-17
-6) Shared_preferences
-18
-​
-19
-7) Component file (to not duplicate widgets)
-20
-​
-21
-8) Lots of widgets.
-22
-​
-23
-9) hexcolor
-24
-​
-25
-10) conditional_builder_null_safety
-26
-​
-27
-​
-28
+1) Files were created for each widget for reuse
+2) url_launcher
+3) font_awesome_flutter
+4) fluttertoast
+5) Shared_preferences
+6) Component and constance file (to not duplicate widgets)
+7) Lots of widgets.
+
+
 #########################################################
-29
-​
-30
+
 <picture>
-31
-  <img src="" width="250" height="450"/>
-32
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030736_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXQY3SQMUWQERZRXOUOY6N4PCQ" width="200" height="400"/>
 </picture>
-33
+
 <picture>
-34
-  <img src="" width="250" height="450"/>
-35
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030741_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXQWRBTY76JBBRJQR5SY6N4PGA" width="200" height="400"/>
 </picture>
-36
+
 <picture>
-37
-  <img src="" width="250" height="450"/>
-38
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030750_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXQLMIHIQCARQRXW76AY6N4PKA" width="200" height="400"/>
 </picture>
-39
+
 <picture>
-40
-  <img src="" width="250" height="450"/>
-41
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030758_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXRFFMTMDDJDQ2ER67SY6N4PPQ" width="200" height="400"/>
 </picture>
-42
+
 <picture>
-43
-  <img src="" width="250" height="450"/>
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030902_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXQNRWKV6XILK744HBMY6N4P4A" width="200" height="400"/>
+</picture>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230118_011648_com.example.healthybmi.jpg?token=GHSAT0AAAAAAB4K7BXQSP47ZJ5XFQNRZSKIY6N4O7Q" width="200" height="400"/>
+</picture>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030930_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXRIHVGC7LLN7DEPP7WY6N4P6Q" width="200" height="400"/>
+</picture>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/MohannadAbuyounes/Healthy_BMI/master/screenShots/Screenshot_20230123_030826_com.example.bmi_healthy.jpg?token=GHSAT0AAAAAAB4K7BXQ36Q26RN2XRRNICFYY6N4PXQ" width="200" height="400"/>
+</picture>
