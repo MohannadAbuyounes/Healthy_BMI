@@ -115,29 +115,27 @@ class _NavigationDrawerState extends State<NavigationDrawer> {
           ),
 
           /// Language
-          ListTile(
-            leading: const Icon(
-              Icons.language_outlined,
-              color: primaryAppColor,
-              size: 30,
-            ),
-            title: const Text(
-              'Language',
-              style: TextStyle(color: primaryTextColor,fontSize: 17),
-            ),
-            selected: _selectedDestination == 1,
-            onTap: () {
-              selectDestination(1);
-              // Navigator.push(context, MaterialPageRoute(builder: (context) {
-              //   return const HistoryScreen();
-              // }));
-
-
-
-            },
-          ),
-
-
+          // ListTile(
+          //   leading: const Icon(
+          //     Icons.language_outlined,
+          //     color: primaryAppColor,
+          //     size: 30,
+          //   ),
+          //   title: const Text(
+          //     'Language',
+          //     style: TextStyle(color: primaryTextColor,fontSize: 17),
+          //   ),
+          //   selected: _selectedDestination == 1,
+          //   onTap: () {
+          //     selectDestination(1);
+          //     // Navigator.push(context, MaterialPageRoute(builder: (context) {
+          //     //   return const HistoryScreen();
+          //     // }));
+          //
+          //
+          //
+          //   },
+          // ),
 
 
           /// Sign out
